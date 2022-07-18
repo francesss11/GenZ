@@ -25,3 +25,6 @@ A big production bug was discovered!
 John foud the commit that introduced the bug thanks to the team's descriptive 
 commit messages.
 
+#Chapter 7: Bug Resolution
+
+After replicating the bug, John was able to fix 
