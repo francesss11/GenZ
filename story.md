@@ -14,3 +14,7 @@ The boss decided to have a talk with him
 #Chapter 4: The Team Lead
 
 John is now a team leader!
+
+# Chapter 5: The Bug
+
+A big production bug was discovered!
