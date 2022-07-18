@@ -16,9 +16,9 @@ a Team Leader."
 
 John is now a team leader!
 
-# Chapter 5: The Bug
-
-A big production bug was discovered!
+# Chapter 5: Prod Issue
+A critical prod issue occurred. Everyone looked to Steve for the solution.
+Steve decided that the team needed to replicate the bug first.
 
 #Chapter 6: Finding the Cause
 
