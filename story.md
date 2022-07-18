@@ -18,3 +18,9 @@ John is now a team leader!
 # Chapter 5: The Bug
 
 A big production bug was discovered!
+
+#Chapter 6: Finding the Cause
+
+John foud the commit that introduced the bug thanks to the team's descriptive 
+commit messages.
+
