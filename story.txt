@@ -1,4 +1,8 @@
+#Chapter 1
 Once upon a time, in the office of a software development firm, there
 was a programmer named John. He was happy at his job.
 
 One day, Joanne, one of his co-workers, found a bug during regression testing. 
+#Chapter 2
+They reported and created a ticket of the discovered bug.
+This bug was also occuring in the production.
