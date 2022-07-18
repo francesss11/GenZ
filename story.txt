@@ -12,3 +12,6 @@ This bug was also occuring in the production.
 Once upon a time, during a virtual GIT Training, there was a task 
 required to use your username and password credentials.
 
+Ronnel, a participant of the event, had problems in his credentials. 
+He wasn't able to push his changes but did not give up to find a solution to his problem.
+
