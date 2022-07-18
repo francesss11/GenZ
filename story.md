@@ -9,7 +9,8 @@ He was happy at his job.
 One day, he was invited to join a key project.
 
 # Chapter 3: The Promotion
-The boss decided to have a talk with him
+The boss decided to have a talk with him. "Steve, it's time you became
+a Team Leader."
 
 #Chapter 4: The Team Lead
 
