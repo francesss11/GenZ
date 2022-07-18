@@ -1,3 +1,4 @@
 Once upon a time, in the office of a software development firm, there
 was a programmer named John. He was happy at his job.
-there was a programmer named
+
+One day, one of his co-workers found a bug during regression testing.
